@@ -42,14 +42,14 @@ const app = {
     {
       name: "Sao Cũng Được Lofi - Thà Yêu Lấy Một Người Bình Thường Để Đêm Về Thì Thầm Nhớ Thương Lofi Chill Buồn",
       singer: "gió đông chill",
-      path: "y2mate.com - Sao Cũng Được Lofi  Thà Yêu Lấy Một Người Bình Thường Để Đêm Về Thì Thầm Nhớ Thương Lofi Chill Buồn.mp3",
+      path: "./music/y2mate.com - Sao Cũng Được Lofi  Thà Yêu Lấy Một Người Bình Thường Để Đêm Về Thì Thầm Nhớ Thương Lofi Chill Buồn.mp3",
       image:
         "https://i.pinimg.com/originals/6c/a8/2d/6ca82d50ef05f6b7b00173c8e329cb00.jpg",
     },
     {
       name: "Nắng Nhẹ Nhàng Êm Êm Giấc Ngủ Dịu Dàng - Sao Cũng Được Lofi - Thà Yêu Lấy Một Người Bình Thường Lofi",
       singer: "gió đông chill",
-      path: "y2mate.com - Nắng Nhẹ Nhàng Êm Êm Giấc Ngủ Dịu Dàng  Sao Cũng Được Lofi  Thà Yêu Lấy Một Người Bình Thường Lofi.mp3",
+      path: "./music/y2mate.com - Nắng Nhẹ Nhàng Êm Êm Giấc Ngủ Dịu Dàng  Sao Cũng Được Lofi  Thà Yêu Lấy Một Người Bình Thường Lofi.mp3",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWkCzqWaJBH42JjMEGgMiCopDKRRmn6ChaO2H9CQ4aHDZ3rhoCvxxlE_iBGi4ecPrXZ4&usqp=CAU",
     },
